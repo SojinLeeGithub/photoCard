@@ -2,6 +2,7 @@
 
 <p>https://sojinleegithub.github.io/photoCard/</p>
 I made a web page in the style of 4 cut that was once popular in korea.
+
 ![image](https://github.com/SojinLeeGithub/photoCard/assets/159878967/ba6821fe-12df-4d2b-9d70-9f662f117128)
 
 
